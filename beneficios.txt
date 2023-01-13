@@ -1,0 +1,50 @@
+{
+	"titulo" : "PIX",
+	"descricao" : "Transferências ilimitadas gratuitas, 24 horas por dia",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "investimento",
+	"descricao" : "Opções para começar a investir a partir de R$ 1,00",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "iPhone pra Sempre",
+	"descricao" : "Vantagens exclusivas para a compra de iPhone",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "Samsung no Itaú",
+	"descricao" : "Produtos Samsung com parcelamento de até 21x sem juros",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "Assistência para o seu Pet",
+	"descricao" : "Assistências para ajudar você a cuidar do seu pet",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "cartões de crédito",
+	"descricao" : "+ de 70 opções de cartões para dar Match com você",
+	"conta" : "CORRENTE"
+},
+{
+	"titulo" : "Combinaqui",
+	"descricao" : "Assistências Auto e Residência, Seguro Celular, Streaming de Música com economia de até 87%",
+	"conta" : "CORRENTE"
+}
+
+
+
+{
+	"id" : 1,
+	"conta" : "POUPANCA"
+},
+{
+	"id" : 2,
+	"conta" : "POUPANCA"
+},
+{
+	"id" : 4,
+	"conta" : "POUPANCA"
+}
